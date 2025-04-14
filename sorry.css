@@ -1,0 +1,59 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #d59fb4;
+    margin-bottom: 20px;
+}
+
+/* Page Layouts */
+section {
+    padding: 40px;
+    margin: 20px 0;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Apology Section */
+#apology {
+    background-color: #f4d8e4;
+}
+
+/* Reasons Section */
+#reasons {
+    background-color: #dbe9f3;
+}
+
+.reason {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+/* Songs Section */
+#songs {
+    background-color: #f5f8f1;
+}
+
+#songs a {
+    font-size: 1.1rem;
+    color: #3a68b3;
+    text-decoration: none;
+}
+
+#songs a:hover {
+    text-decoration: underline;
+}
+
+/* Regret Section */
+#regret {
+    background-color: #fbe0e0;
+}
